@@ -1,0 +1,107 @@
+.mat-card {
+    transition: box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+    display: block;
+    position: relative;
+    border-radius: 6px;
+    max-width: 316px; 
+    padding: 0px;
+    height: 450px;
+    
+}
+
+.mat-card-subtitle {
+    padding-top: 30px;
+ 
+}
+
+.titulo1{
+
+    color: #1d539e;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 80px;
+    background-color: #ffcc29;
+    border-radius: 5px;
+    padding-left: 16px;
+   
+}
+
+.btpopular{
+
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 45%;
+  padding: 5px 18px;
+  font-weight: 400;
+  font-size: 10px;
+  border-radius: 10px;
+  border: 1px solid #1d539e;
+  background: #1d539e;
+  color: white;
+}
+
+.reais{
+ 
+    color: black;
+    font-size: 40px;
+    font-weight: 700;  
+    padding-left: 16px;
+      
+}
+
+
+.centavos{
+
+    color: black;
+    font-size: 20px;
+    margin-right: 5px;
+    font-weight: 700;
+}
+
+.periodo{
+
+    font-size: 20px;
+    color: #828799 ;
+    font-weight: 400;
+}
+
+.subtitulo{
+
+    color: #828799 ;    
+    margin-bottom: 20px;
+    padding-left: 16px;
+}
+
+.buttonbasico{
+
+    margin-top: 9px;
+    margin-left: 17px;
+    padding: 12px 95px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 1px solid #1d539e;
+    background: #1d539e;
+    color: white;
+    
+}
+
+.op2{
+
+    display: flex;
+    position: absolute;
+    top: 42%;
+    left: 490px;
+    padding-inline: 2%;
+   
+}
+
+.info{
+   
+   
+    padding-left: 16px;
+}
+
+
+

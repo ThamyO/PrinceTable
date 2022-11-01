@@ -1,0 +1,30 @@
+
+  * {
+    padding: 0;
+    margin: 0;
+    width:100%;
+    
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  #content-info {
+    background:#1d539e;
+    display: inline-grid;
+    gap: 20px;
+    place-items: center;
+    text-align: center;
+    padding: 100px 0 210px;
+    color: #fff;
+    position: relative;    
+  }
+  
+  #content-title {
+    font-size: 48px;
+    font-weight: 700;
+  }
+  
+  #content-description {
+    width: min(553px, 65%);
+    font-size: 18px;
+    font-weight: 400;
+  }

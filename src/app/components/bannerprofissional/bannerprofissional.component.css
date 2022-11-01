@@ -1,0 +1,85 @@
+.mat-card {
+    transition: box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+    display: block;
+    position: relative;
+    border-radius: 6px;
+    max-width: 316px; 
+    padding:0px 0px 0px 16px;
+    height: 444px;
+    
+}
+.titulo1{
+
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 90px;
+}
+
+.mat-card-subtitle {
+    padding-top: 20px;
+ 
+}
+
+.reais{
+
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.centavos{
+
+    color: black;
+    font-size: 20px;
+    margin-right: 5px;
+    font-weight: 700;
+}
+
+.periodo{
+
+    font-size: 20px;
+    color: #828799 ;
+    font-weight: 400;
+}
+
+.subtitulo{
+
+    color: #828799 ;    
+    margin-bottom: 10px;
+}
+
+.button{
+
+  margin-top: auto;
+  padding: 12px 95px;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 1px solid #1d539e;
+  background: none;
+  color: #1d539e;
+}
+
+.op3{
+
+    display: flex;
+    position: absolute; 
+    top: 43%;
+    right: 13.5%;
+    
+}
+
+.card{
+
+    max-width: 300px;
+    
+}
+
+.info{
+
+    font-size: 12px;
+    margin-bottom: 5px;
+   
+}
